@@ -6,7 +6,7 @@
 
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
-- 👨‍💻 My Portfolio - **[Mayur Khachane](https://mayurportfolio-8guuctu2m-mayur397.vercel.app/)**
+- 👨‍💻 My Portfolio - **[Mayur Khachane](https://mayurportfolio.vercel.app/)**
 
 
 - 🌱 I’m currently learning **MERN Stack at MASAI School**
