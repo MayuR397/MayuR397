@@ -1,4 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="./git.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="./git.jpg" alt="Profile Picture" height="175px" /></a>
+
+<!-- ... rest of your HTML ... -->
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mayur Khachane</h1>
 <h3 align="center">I'm a passionate Full Stack Developer.</h3>
