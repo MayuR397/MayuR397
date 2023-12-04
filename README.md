@@ -1,5 +1,5 @@
 <a href="#"><img width="100%" height="auto" src="./git.jpg" alt="Profile Picture" height="175px" /></a>
-
+[](git.jpg)
 <!-- ... rest of your HTML ... -->
 
 
